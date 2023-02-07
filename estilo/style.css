@@ -187,3 +187,12 @@ section.descricao-autor p{
         width: 100%;
     }
 }
+footer{
+        padding:10px 0;
+        background:#3D437A;
+        text-align: center;
+        font-size: 14px;
+        color: white;
+        font-weight: 400;/** add fontes leves e grossas ao estilo**/ 
+        
+    }
