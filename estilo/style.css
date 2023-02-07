@@ -126,6 +126,7 @@ section.banner-principal form input[type=submit]{
 }
 section.descricao-autor{
     padding: 30px 0;
+    background-color: #ccc;
 }
 section.descricao-autor h2{
     font-size: 28px;
@@ -137,6 +138,7 @@ section.descricao-autor p{
     font-size: 17px;
     color:#444;
     margin-top:10px;
+    
 }
 
 @media screen and (max-width:700px) {
@@ -186,6 +188,8 @@ section.descricao-autor p{
         padding: 20px;
         width: 100%;
     }
+
+
 }
 footer{
         padding:10px 0;
