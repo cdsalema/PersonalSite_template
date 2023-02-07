@@ -8,6 +8,7 @@
 /**boot CSS**/
 img{
     width: 100%;
+    max-width: 400px;
 }
 .center{
     max-width: 1280px;
@@ -145,8 +146,32 @@ section.descricao-autor p{
     nav.mobile{
         display: block;
     }
+    .bt-menu-mobile{
+        font-size: 24px;
+        cursor: pointer;
+        color:white;
+    }
     nav.mobile ul{
-        display: none;
+        width: 100%;
+        display: none; /**block = para aparecer o menu no mobile**/
+        position: absolute;
+        left:0;
+        top:55px;
+        z-index: 3;
+        text-align: center;
+    }
+    nav.mobile li{
+        width: 100%;
+        display:block;
+        background: white;
+        border-bottom:1px solid #ccc;
+        font-size: 17px;
+        padding: 8px 0;
+    }
+    nav.mobile li a{
+        display: block;
+        color: #444;
+        text-decoration: none;
     }
 }
 
@@ -155,7 +180,7 @@ section.descricao-autor p{
         float: none !important;
         display:block;
         margin:0 auto;
-        max-width: 500px;
+        
     }
     .w50{
         padding: 20px;
