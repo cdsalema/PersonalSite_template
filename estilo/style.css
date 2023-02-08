@@ -47,10 +47,18 @@ header .logo{
     font-size: 25px;
     color: white;
     text-transform: uppercase;
-    font-weight: 700;/** add fontes leves e grossas ao estilo**/ 
-    text-decoration: none;
-
+    font-weight: 400;/** add fontes leves e grossas ao estilo**/ 
 }
+
+.logo a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo a:hover{
+    color: #00C59E;
+}
+
 .mobile{
     display:none;
 }

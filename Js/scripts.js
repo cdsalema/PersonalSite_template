@@ -1,8 +1,8 @@
 $(document).ready(function(){
-    $("nav.mobile").click(function(){
-      $("ul").slideToggle();
-    });
-  });
+  $("nav.mobile").click(function(){
+    $("ul").slideToggle();
+  })
+});
     
 
     
