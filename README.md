@@ -1,12 +1,14 @@
 # 2_project
 
-Crinado um site pessoal para melhor a responsividade do meu CSS. E usar como base para implementar efeitos mais dinamicos com JS.
+<p>Crinado um site pessoal para melhorar a responsividade do meu CSS. E usar como base para implementar efeitos mais dinamicos com JS/JQuery.</p>
 <ul>
   <li>Menu FadeIn e FadeOut;</li>
     <li>Navegação por tópicos</li>
       <li>Criar a funcionalidade para o form enviar email, PHP</li>
   </ul>
 <p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase.png"/></p>
+<li>Layout<=700px</li>
+<p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivo.png" width="475"/></p>
 
 
 
