@@ -276,7 +276,7 @@ footer{
     }
     nav.mobile ul{
         width: 100%;
-        display: none; /**block = para aparecer o menu no mobile**/
+        display: none; 
         position: absolute;
         left:0;
         top:55px;
