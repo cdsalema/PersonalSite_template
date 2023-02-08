@@ -240,8 +240,6 @@ footer{
     font-weight: 400;/** add fontes leves e grossas ao estilo**/ 
 }
 
-
-
 @media screen and (max-width:768px) {
     img{
         float: none !important;
