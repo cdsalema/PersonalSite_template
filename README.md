@@ -10,7 +10,7 @@
 
 <p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase1.png"/></p>
 <li>Layout<=700px</li>
-<p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivo_novo.png" width="475"/></p>
+<p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivoNovo.png" width="475"/></p>
 <li>Estilo menu responsivo fadein/fadeout</li>
 <p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivo2.png" width="475"/></p>
 
