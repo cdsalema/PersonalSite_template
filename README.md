@@ -5,12 +5,13 @@
   <li>Menu FadeIn e FadeOut - OK</li>
   <li>Navegação por tópicos - OK</li>
   <li>Criar a funcionalidade para o form enviar email - OK</li>
-  <li>Estilo menu responsivo fadein/fadeout - OK</li>
+  
 </ul>
 
 <p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase1.png"/></p>
 <li>Layout<=700px</li>
 <!--<p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivo.png" width="475"/></p>-->
+<li>Estilo menu responsivo fadein/fadeout</li>
 <p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivo2.png" width="475"/></p>
 
 
