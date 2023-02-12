@@ -2,7 +2,7 @@
 
 <p>Crinado um site pessoal para melhorar a responsividade do meu CSS. E usar como base para implementar efeitos mais dinamicos com JS/JQuery.</p>
 <ul>
-  <li>Menu FadeIn e FadeOut - OK</li>
+  <li>Menu dinamico usando jquery slidetoggle - OK</li>
   <li>Navegação por tópicos - OK</li>
   <li>Criar a funcionalidade para o form enviar email - OK</li>
   
