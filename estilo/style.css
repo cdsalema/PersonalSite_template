@@ -228,6 +228,10 @@ section.redes h2.title{
 section.redes a{
     color: #404580;
      text-decoration: none;
+     transition: 1s;
+}
+section.redes a:hover{
+    color: #00C59E;
 }
 
 .box-rede h3{
