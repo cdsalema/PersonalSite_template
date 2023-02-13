@@ -230,7 +230,7 @@ section.redes a{
      text-decoration: none;
      transition: 1s;
 }
-section.redes a:hover{
+.redes a:hover{
     color: #00C59E;
 }
 
