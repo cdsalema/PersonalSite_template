@@ -130,7 +130,6 @@ section.banner-principal form input[type=email]{
     
 }
 
-
 section.banner-principal form input[type=text]{
     width: 100%;
     height: 66px;
@@ -151,10 +150,12 @@ section.banner-principal form input[type=submit]{
     font-size: 22px;
     border: 0;
 }
+
 section.descricao-autor{
     padding: 40px 0;
    /** background-color: #ccc;**/
 }
+
 section.descricao-autor h2{
     font-size: 28px;
     font-weight: 400;/** add fontes leves e grossas ao estilo**/ 
@@ -169,26 +170,31 @@ section.descricao-autor p{
     text-align: justify;
     
 }
+
 section.especialidades{
     padding: 40px 0;
     background:#E2E2E2;
 }
+
 section.especialidades h2.title{
     text-align: center;
     font-size: 36px;
     font-weight: 400;
     color: #999;
 }
+
 .box-especialidade{
     margin: 30px 0;
     padding: 0 20px;
     text-align: center;
 }
+
 .box-especialidade h3{
      font-size: 40px;
      padding: 0 20px;
      color: #404580;
 }
+
 section.especialidades h4{
     font-size: 25px;
     font-weight: 400;
@@ -212,16 +218,23 @@ section.redes h2.title{
     font-weight: 400;
     color: #999;
 }
+
 .box-rede{
     margin: 30px 0;
     padding: 0 20px;
     text-align: center;
 }
+
+section.redes a{
+    color: #404580;
+     text-decoration: none;
+}
+
 .box-rede h3{
      font-size: 40px;
      padding: 0 20px;
-     color: #404580;
 }
+
 section.rede h4{
     font-size: 25px;
     font-weight: 400;
