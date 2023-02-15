@@ -1,8 +1,9 @@
 # 2_project
 
-<p>Crinado um site pessoal para melhorar a responsividade do meu CSS. E usar como base para implementar efeitos mais dinamicos com JS/JQuery.</p>
+<p>Criando um site pessoal para melhorar a responsividade do meu CSS. E usar como base para implementar efeitos mais dinamicos com JS/JQuery.</p>
 <ul>
-  <li>Menu FadeIn e FadeOut - OK</li>
+  <li>CSS aprimorar Responsividade  - OK</li>
+  <li>Menu usando jquery slidetoggle - OK</li>
   <li>Navegação por tópicos - OK</li>
   <li>Criar a funcionalidade para o form enviar email - OK</li>
   
@@ -10,8 +11,8 @@
 
 <p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase1.png"/></p>
 <li>Layout<=700px</li>
-<!--<p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivo.png" width="475"/></p>-->
-<li>Estilo menu responsivo fadein/fadeout</li>
+<p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivoNovo.png" width="475"/></p>
+<li>Estilo menu JQuery slidetoggle </li>
 <p align=center><img src="https://github.com/cdsalema/2_project/blob/master/images/layoutbase_responsivo2.png" width="475"/></p>
 
 
