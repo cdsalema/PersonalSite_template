@@ -1,4 +1,5 @@
-# 2_project
+# PersonalSite_template
+
 
 <p>Criando um site pessoal para melhorar a responsividade do meu CSS. E usar como base para implementar efeitos mais dinamicos com JS/JQuery.</p>
 <ul>
