@@ -8,7 +8,7 @@
   <li>Navegação por tópicos - OK</li>
   <li>Criar a funcionalidade para o form enviar email - OK</li>
   <br/>
-  <li><a href="https://cdsalema.github.io/PersonalSite_template/index.html">Acesse aqui o site</a></li>
+  <li><a href="https://cdsalema.github.io/PersonalSite_template/index.html">Acesse aqui o site //Em Manutenção!</a></li>
   
 </ul>
 
@@ -18,7 +18,7 @@
 <li>Estilo menu JQuery slidetoggle </li>
 <p align=center><img src="https://github.com/cdsalema/PersonalSite_template/blob/master/Assets/images/layoutbase_responsivo2.png" width="475"/></p>
 
-<li><a href="https://cdsalema.github.io/PersonalSite_template/index.html">Acesse aqui o site //Em Manutenção!</a></li>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
