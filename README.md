@@ -8,7 +8,7 @@
   <li>Navegação por tópicos - OK</li>
   <li>Criar a funcionalidade para o form enviar email - OK</li>
   <br/>
-  <li><a href="https://cdsalema.github.io/PersonalSite_template/index.html">Acesse aqui o site //Em Manutenção!</a></li>
+  <li><a href="https://conradosalema.netlify.app/">Acesse aqui o site
   
 </ul>
 
