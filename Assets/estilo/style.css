@@ -84,14 +84,6 @@ nav.desktop a:hover{
     color: #00C59E;
 }
 
-section.banner-principal{
-    width: 100%;
-    height: 500px;
-    background-image: url('../images/bg_form1.jpg');
-    background-size: cover;
-    position: relative;
-}
-
 .overlay{
     position: absolute;
     left: 0;
@@ -99,8 +91,20 @@ section.banner-principal{
     width: 100%;
     z-index: 1;
     height: 100%;
-    background-color: rgba(51,51,51,0.7);
+    background-color: rgba(51,51,51,0.6);
 }
+
+section.banner-principal{
+    width: 100%;
+    z-index: 1;
+    height: 500px;
+   /** background-color: red;**/
+    background-image: url('assets/images/bgform2.jpg');
+    background-size: cover;
+    position: relative;
+}
+
+
 
 section.banner-principal form{
     width: 93%;
