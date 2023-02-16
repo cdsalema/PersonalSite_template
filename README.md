@@ -1,12 +1,14 @@
 # PersonalSite_template
 
 
-<p>Criando um site pessoal para melhorar a responsividade do meu CSS. E usar como base para implementar efeitos mais dinamicos com JS/JQuery.</p>
+<p>Criando um site pessoal para melhorar a responsividade do meu CSS. E usar como base para implementar efeitos com JS/JQuery.</p>
 <ul>
   <li>CSS aprimorar Responsividade  - OK</li>
   <li>Menu usando jquery slidetoggle - OK</li>
   <li>Navegação por tópicos - OK</li>
   <li>Criar a funcionalidade para o form enviar email - OK</li>
+  <br/>
+  <li><a href="https://conradosalema.netlify.app/">Acesse aqui o site
   
 </ul>
 
