@@ -12,11 +12,11 @@
   
 </ul>
 
-<p align=center><img src="https://github.com/cdsalema/PersonalSite_template/blob/master/Assets/images/layoutbase1.png"/></p>
+<p align=center><img src="https://github.com/cdsalema/PersonalSite_template/blob/master/assets/images/layoutbase1.png"/></p>
 <li>Layout<=700px</li>
-<p align=center><img src="https://github.com/cdsalema/PersonalSite_template/blob/master/Assets/images/layoutbase_responsivoNovo.png" width="475"/></p>
+<p align=center><img src="https://github.com/cdsalema/PersonalSite_template/blob/master/assets/images/layoutbase_responsivoNovo.png" width="475"/></p>
 <li>Estilo menu JQuery slidetoggle </li>
-<p align=center><img src="https://github.com/cdsalema/PersonalSite_template/blob/master/Assets/images/layoutbase_responsivo2.png" width="475"/></p>
+<p align=center><img src="https://github.com/cdsalema/PersonalSite_template/blob/master/assets/images/layoutbase_responsivo2.png" width="475"/></p>
 
 
 
